@@ -3,7 +3,7 @@ key: github
 name: GitHub
 repo: B-o-a-r-d/Github-Plugin
 description: Read-only commit / PR / issue lists, link commits to cards, and an MCP tool.
-author: B-o-a-r-d
+author: JibayMcs
 homepage: https://github.com/B-o-a-r-d/Github-Plugin
 icon: github-logo
 capabilities: [list-source, card-enrichment, activities, mcp-tools]
