@@ -35,6 +35,9 @@ guide.
 | `icon` |  | A [Phosphor](https://phosphoricons.com) icon name (default `puzzle-piece`) |
 | `capabilities` |  | Any of `list-source`, `card-enrichment`, `activities`, `mcp-tools` |
 | `category` |  | e.g. `connectors` |
+| `package` |  | Composer name (`vendor/name`). When set, instances install via `composer require` (Packagist or their configured sources) instead of the GitHub release zipball — publish the package on [Packagist](https://packagist.org) first. Also enables the download counter. |
+| `banner` |  | `https://` image URL shown on the marketplace card (fallback: gradient + icon) |
+| `screenshots` |  | List of `https://` image URLs shown in the details modal |
 
 ## Review criteria
 
