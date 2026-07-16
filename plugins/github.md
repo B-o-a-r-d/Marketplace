@@ -2,6 +2,7 @@
 key: github
 name: GitHub
 repo: B-o-a-r-d/Github-Plugin
+package: board/plugin-github
 description: Read-only commit / PR / issue lists, link commits to cards, and an MCP tool.
 author: JibayMcs
 homepage: https://github.com/B-o-a-r-d/Github-Plugin

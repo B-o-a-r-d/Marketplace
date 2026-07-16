@@ -2,6 +2,7 @@
 key: gitlab
 name: GitLab
 repo: B-o-a-r-d/Gitlab-Plugin
+package: board/plugin-gitlab
 description: Read-only commit / merge request / issue lists from a GitLab project, plus an MCP tool.
 author: JibayMcs
 homepage: https://github.com/B-o-a-r-d/Gitlab-Plugin
