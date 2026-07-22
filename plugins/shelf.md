@@ -2,7 +2,6 @@
 key: shelf
 name: Shelf
 repo: B-o-a-r-d/Shelf-Plugin
-package: board/plugin-shelf
 description: A document board type — explorer tree, collaborative markdown notes and files under a quota.
 author: JibayMcs
 homepage: https://github.com/B-o-a-r-d/Shelf-Plugin
